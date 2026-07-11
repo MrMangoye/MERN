@@ -1,0 +1,11 @@
+{
+    "name": "intro-js",
+    "version": "1.0.0",
+    "description": "A simple intro.js file for MERN stack assignment",
+    "main": "intro.js",
+    "scripts": {
+      "start": "node intro.js"
+    },
+    "author": "[Your Name]",
+    "license": "ISC"
+  }
