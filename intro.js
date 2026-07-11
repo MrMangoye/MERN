@@ -1,6 +1,6 @@
 const name = "Benjamin Juma Mangoye";
 const age = 22;
-const favoritelanguage = "JavaScript";
+const favoriteLanguage = "JavaScript";
 
 console.log("=".repeat(50));
 console.log("  PERSONAL INFORMATION");
